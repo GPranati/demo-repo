@@ -6,4 +6,4 @@ Learning stuff like **bold** and *italics*.
 Above is a subheader.
 
 ## Local Development
-1. Open index.html in your browser.cd
+1. Open index.html in your browser.cd.
